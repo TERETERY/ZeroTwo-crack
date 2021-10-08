@@ -1,2 +1,4 @@
 # ZeroTwo-crack
-based phobos skid
+phobos skid
+
+thanks to TheMigale to crack this shit
